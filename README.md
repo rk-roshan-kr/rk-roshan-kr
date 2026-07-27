@@ -502,17 +502,17 @@ Contributions welcome on any active repository. If something you need is not yet
 <!--                       TIMELINE                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📅 Research & Build Timeline
+## 📅 Research & Build 
 
 ```text
-2024  ──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────
       ◉  EarthOS — Cognitive architecture research initiated
       ◉  TARS — Exoplanet detection platform started
       ◉  FieldChain v1 — GPU cryptographic integrity pipeline built
       ◉  BookStudio 3D — 3D book mockup generator launched
       ◉  The AGI Question — Published on Amazon
 
-2025  ──────────────────────────────────────────────────────────────
+  ──────────────────────────────────────────────────────────────
       ◉  TARS EXP-001 through EXP-005 — Scientific experiments running
       ◉  FieldChain v2 — Real Poly1305 + BLAKE3 chaining implemented
       ◉  WorldRing — Spatial intelligence research architecture defined
@@ -523,7 +523,7 @@ Contributions welcome on any active repository. If something you need is not yet
       ◉  SMG Vendor Portal — Enterprise management system built
       ◉  Quantum Computing — Exploratory research ongoing
 
-2026+ ──────────────────────────────────────────────────────────────
+ ──────────────────────────────────────────────────────────────
       ○  TARS — Peer-reviewed publication submission
       ○  EarthOS — Open-source cognitive architecture framework
       ○  WorldRing — Live platform with drone data integration
