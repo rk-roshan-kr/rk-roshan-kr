@@ -3,45 +3,26 @@
 <!-- ========================= -->
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E3A8A,100:2563EB&text=Roshan%20Kumar%20Gupta&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Researcher%20•%20Open%20Source%20Builder&descAlignY=58"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E3A8A,100:2563EB&text=Roshan%20Kumar%20Gupta&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Researcher%20•%20Product%20Builder&descAlignY=58" />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Scientific+Computing;Full+Stack+Development;Always+Building+Something+New"/>
-
-</p>
-
-<h1 align="center">
-
-<h3 align="center">
-Software Engineer • AI Researcher • Full Stack Developer • Open Source Builder
-</h3>
-
-<p align="center">
-Building intelligent software with Artificial Intelligence, Machine Learning, Scientific Computing and Modern Web Technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Scientific+Computing;Full+Stack+Development;Always+Building+Something+New" />
 </p>
 
 <p align="center">
-
-<a href="mailto:Roshankumargupta.sh@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/roshankumargupta-0xc0de">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/rk-roshan-kr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://buymeacoffee.com/roshankumargupta">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
-</a>
-
+  <a href="mailto:Roshankumargupta.sh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/roshankumargupta-0xc0de">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rk-roshan-kr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/roshankumargupta">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -52,162 +33,138 @@ Building intelligent software with Artificial Intelligence, Machine Learning, Sc
 class Roshan {
 
 public:
-
     string role = "Software Engineer";
-
     string location = "India";
 
     vector<string> interests = {
-
         "Artificial Intelligence",
         "Machine Learning",
         "Scientific Research",
         "Computer Vision",
         "Full Stack Development",
         "Open Source"
-
     };
 
-    vector<string> currentlyWorkingOn = {
-
+    vector<string> current_work = {
         "AI Research",
         "Scientific Software",
         "Modern Web Applications",
         "Automation"
-
     };
 
-    string motto =
-        "Build things that matter.";
+    string motto = "Build things that matter.";
 };
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-- 🤖 Artificial Intelligence
-- 🌌 Scientific Computing
-- 📊 Machine Learning
-- 🌐 Full Stack Development
-- ⚡ Open Source
-- 🚀 Building products from idea to deployment
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+- 🌌 Building **TARS**, a physics-constrained exoplanet detection ecosystem
+- 🧠 Designing **EarthOS**, an experimental cognitive architecture
+- 🌍 Developing **WorldRing**, a spatial intelligence and digital twin platform
+- 📚 Expanding **Earthos Books**, an independent publishing ecosystem
+- ⚛ Researching **Quantum Computing** and scientific machine learning
+- 🔐 Exploring GPU-accelerated cryptography and storage systems
 
 ---
 
-### 🎨 Frontend
+# 🚀 Flagship Products
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
-
----
-
-### ⚙ Backend & Database
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+| Product | What it is | Stack |
+|---------|------------|-------|
+| 🌌 **TARS** | Physics-constrained exoplanet detection platform for NASA TESS observations, combining interpretable validation with scientific machine learning. | Python • TensorFlow • PyTorch • OpenCV • XGBoost |
+| 🌍 **WorldRing** | Research initiative to construct a persistent 3D digital twin of the world using drones, computer vision, and spatial intelligence. | React • Three.js • AI |
+| 📚 **Earthos Books** | Publishing ecosystem with digital delivery, affiliate systems, analytics, payment flow, and author tooling. | Next.js • Firebase • MongoDB |
+| 🏛 **Project Nexus** | Unified campus platform integrating marketplace, lost & found, carpooling, academics, and student services. | Next.js • TypeScript • Supabase |
+| 🛡 **Safety Pod** | Campus safety application with live location sharing, SOS alerts, and collaborative safety pods. | React Native • Firebase |
+| 🏭 **SMG Vendor Portal** | Enterprise inventory, procurement, production, and analytics management system. | React • Vite • TailwindCSS • Node.js |
+| 🔐 **FieldChain** | GPU-accelerated storage integrity framework with modern cryptographic verification pipelines. | Python • CUDA • Cryptography |
+| 📖 **BookStudio 3D** | Browser-based professional 3D book mockup generator with studio lighting and physically based rendering. | Three.js • Vite • Node.js |
 
 ---
 
-### 🤖 Artificial Intelligence
+# 🔬 Research Portfolio
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
-
----
-
-### 📊 Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+| Research | Focus Area | Notes |
+|----------|------------|-------|
+| 🧠 **EarthOS** | Artificial General Intelligence & Cognitive Architectures | Memory, reasoning, planning, deterministic cognitive systems |
+| 🌌 **TARS Research** | Exoplanet Detection & Computational Astrophysics | Sparse transit regimes, timing coherence, validation pipelines |
+| ⚛ **Quantum Computing** | Quantum Algorithms & Scientific Computing | Exploratory work in quantum models and computation |
+| 🔐 **FieldChain** | GPU Cryptography & Storage Integrity | CUDA/Vulkan-backed integrity verification |
+| 📑 **Research-the-Researcher** | Local OSINT & Knowledge Graph Construction | Fully local academic profiling and analysis pipeline |
+| 🛡 **Patent Zero** | Privacy-Preserving Patent Analysis | Extracts algorithm structure without exposing source code |
+| 🌍 **WorldRing Research** | Spatial AI, Mapping, Computer Vision | Persistent world reconstruction from noisy observations |
 
 ---
 
-### ☁ Deployment
+# 📚 Publications
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+## 📖 The AGI Question: What Does It Take to Become a Mind?
 
----
+A book exploring the scientific, engineering, and philosophical foundations required for Artificial General Intelligence.
 
-### 🛠 Developer Tools
+### Topics
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+- Artificial General Intelligence
+- Cognitive Architectures
+- Memory Systems
+- Learning
+- Consciousness
+- Future of AI
 
----
-
-### 🎨 Creative
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom)
+**Status:** Published on Amazon
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Research Interests
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌌 **TARS** | AI-powered exoplanet discovery platform using NASA TESS data, signal processing, and machine learning. | Python • TensorFlow • OpenCV |
-| 🧠 **EarthOS** | Cognitive architecture exploring memory, reasoning, active inference, and AGI-inspired systems. | Python • AI • ML |
-| 🌍 **WorldRing** | 3D digital twin platform using drones, computer vision, and spatial intelligence. | React • Three.js • Node.js |
-| 📚 **Earthos Books** | Full-stack publishing ecosystem with affiliate system, analytics, payments, and digital delivery. | React • Firebase • MongoDB |
-| 🏛 **Samvidhaan Saral** | Interactive platform for learning the Constitution in an accessible way. | React • Firebase |
-| ♻ **Trash2Cash** | Waste management platform connecting recyclers and citizens. | React • Node.js |
-| ⚡ **ZeroQ** | Smart queue management and appointment booking platform. | React • Firebase |
+- Artificial General Intelligence
+- Cognitive Architectures
+- Exoplanet Detection
+- Scientific Machine Learning
+- Computer Vision
+- Quantum Computing
+- Applied Cryptography
+- Explainable AI
+- Spatial Intelligence
+- High-Performance Computing
+
+---
+
+# 🛠 Technology Stack
+
+## Languages
+
+Python • TypeScript • JavaScript • Java • C • C# • SQL • HTML • CSS
+
+## AI & Scientific Computing
+
+TensorFlow • PyTorch • OpenCV • NumPy • Pandas • SciPy • Scikit-Learn • XGBoost • MLflow
+
+## Web & Product Engineering
+
+React • Next.js • React Native • Node.js • Firebase • Supabase • TailwindCSS • Three.js • Vite
+
+## Infrastructure & Delivery
+
+Git • GitHub • Netlify • Vercel • Render
+
+## Creative Tools
+
+Blender • Figma • Canva
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rk-roshan-kr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-roshan-kr&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rk-roshan-kr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-roshan-kr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=rk-roshan-kr&theme=tokyonight&hide_border=true"/>
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=rk-roshan-kr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -215,9 +172,7 @@ public:
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rk-roshan-kr&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rk-roshan-kr&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
@@ -225,9 +180,7 @@ public:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rk-roshan-kr&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rk-roshan-kr&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -235,9 +188,17 @@ public:
 # 📋 GitHub Summary
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk-roshan-kr&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk-roshan-kr&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rk-roshan-kr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rk-roshan-kr&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rk-roshan-kr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rk-roshan-kr&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -245,27 +206,24 @@ public:
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:Roshankumargupta.sh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/roshankumargupta-0xc0de">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://buymeacoffee.com/roshankumargupta">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
-</a>
-
+  <a href="mailto:Roshankumargupta.sh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/roshankumargupta-0xc0de">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rk-roshan-kr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/roshankumargupta">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-![](https://visitcount.itsvg.in/api?id=rk-roshan-kr&icon=5&color=6)
-
+  ![](https://visitcount.itsvg.in/api?id=rk-roshan-kr&icon=5&color=6)
 </p>
 
 ---
