@@ -3,7 +3,15 @@
 <!-- ========================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=280&section=header&text=Roshan%20Kumar%20Gupta&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E3A8A,100:2563EB&text=Roshan%20Kumar%20Gupta&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Researcher%20•%20Open%20Source%20Builder&descAlignY=58"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Scientific+Computing;Full+Stack+Development;Always+Building+Something+New"/>
+
 </p>
 
 <h1 align="center">Hi 👋 I'm Roshan</h1>
