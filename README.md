@@ -14,7 +14,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋 I'm Roshan</h1>
+<h1 align="center">
 
 <h3 align="center">
 Software Engineer • AI Researcher • Full Stack Developer • Open Source Builder
