@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rk-roshan-kr/rk-roshan-kr/main/assets/banner.png" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Roshan%20Kumar%20Gupta&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Researcher%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Roshan Kumar Gupta</h1>
