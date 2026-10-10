@@ -142,7 +142,7 @@ My work spans the full spectrum from theoretical research to production software
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                  🔬  INDEPENDENT RESEARCH
+                  🔬  INDEPENDENT RESEARCH 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
